@@ -1,0 +1,6 @@
+
+[2023-03-02 22:41:13   @Dinesh : INFO]  User Logged in Successfully
+[2023-03-02 22:42:18   @Dinesh : INFO]  Syntax incorrect
+[2023-03-02 22:44:05   @Dinesh : INFO]  Already a DB exists
+[2023-03-02 22:45:15   @Dinesh : INFO]  Already a DB exists
+[2023-03-02 22:45:50   @Dinesh : INFO]  Already a DB exists

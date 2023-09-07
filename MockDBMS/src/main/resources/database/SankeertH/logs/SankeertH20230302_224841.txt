@@ -1,0 +1,9 @@
+
+[2023-03-02 22:48:41   @SankeertH : INFO]  User Logged in Successfully
+[2023-03-02 22:48:56   @SankeertH : INFO]  Select query executed successfully
+[2023-03-02 22:49:28   @SankeertH : INFO]  Executing select query : 2:Sharath:||
+[2023-03-02 22:49:28   @SankeertH : INFO]  Select query executed successfully
+[2023-03-02 22:51:09   @SankeertH : INFO]  Column Name mismatch with table's column info
+[2023-03-02 22:51:57   @SankeertH : INFO]  Inserted successfully : 10:Rohith:
+
+[2023-03-02 22:53:03   @SankeertH : INFO]  1  records updated successfully..
